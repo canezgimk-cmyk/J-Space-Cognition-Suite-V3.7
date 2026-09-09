@@ -1,0 +1,20 @@
+[
+  {
+    "t": 1704282480,
+    "next": "Verify implementation",
+    "verified": 3,
+    "open": 2
+  },
+  {
+    "t": 1704282540,
+    "next": "Run integration tests",
+    "verified": 4,
+    "open": 1
+  },
+  {
+    "t": 1704282600,
+    "next": "Deploy to production",
+    "verified": 5,
+    "open": 0
+  }
+]
