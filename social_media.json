@@ -1,0 +1,19 @@
+{
+  "social_media": {
+    "instagram": {
+      "username": "YOUR_INSTAGRAM_USERNAME",
+      "email": "YOUR_INSTAGRAM_EMAIL",
+      "note": "Şifreyi buraya yazma - lokal tutun"
+    },
+    "tiktok": {
+      "username": "YOUR_TIKTOK_USERNAME",
+      "email": "YOUR_TIKTOK_EMAIL",
+      "note": "Şifreyi buraya yazma - lokal tutun"
+    },
+    "facebook": {
+      "email": "YOUR_FACEBOOK_EMAIL",
+      "token": "YOUR_FACEBOOK_TOKEN",
+      "note": "Şifreyi buraya yazma - lokal tutun"
+    }
+  }
+}
